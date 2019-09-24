@@ -1,0 +1,17 @@
+############################
+
+LAB TABLEAU VISUALIZATION
+PAULA GUAL
+DATAPT0519
+
+###########################
+
+
+LINK TO THE TABLEAU PUBLIC LAB:
+
+https://public.tableau.com/profile/paula.gual.de.torrella.ca.ellas#!/vizhome/lab-visalization/NFLTeamPerformanceDashboard
+
+LINK BONUS 
+
+https://public.tableau.com/profile/paula.gual.de.torrella.ca.ellas#!/vizhome/lab-visualization-bonus/WorldData
+
